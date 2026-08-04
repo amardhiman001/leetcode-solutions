@@ -20,4 +20,8 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/amardhiman001/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/amardhiman001/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
