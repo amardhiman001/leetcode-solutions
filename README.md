@@ -15,6 +15,7 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/amardhiman001/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0344-reverse-string](https://github.com/amardhiman001/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amardhiman001/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0086-partition-list](https://github.com/amardhiman001/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
