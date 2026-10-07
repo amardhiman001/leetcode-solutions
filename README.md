@@ -9,6 +9,7 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amardhiman001/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/amardhiman001/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,8 +56,10 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/amardhiman001/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/amardhiman001/leetcode-solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
