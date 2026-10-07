@@ -8,6 +8,7 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amardhiman001/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,16 @@ I'm using this repo to track my progress on data structures and algorithms, and 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amardhiman001/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/amardhiman001/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
